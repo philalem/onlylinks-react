@@ -10,8 +10,8 @@
   <a href="https://github.com/philalem/onlylinks-react/blob/main/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/github/license/philalem/onlylinks-react" />
   </a>
-  <a href="https://twitter.com/codebeef\_" target="_blank">
-    <img alt="Twitter: codebeef\_" src="https://img.shields.io/twitter/follow/codebeef\_.svg?style=social" />
+  <a href="https://twitter.com/codebeef_" target="_blank">
+    <img alt="Twitter: codebeef_" src="https://img.shields.io/twitter/follow/codebeef_.svg?style=social" />
   </a>
 </p>
 

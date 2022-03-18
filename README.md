@@ -15,7 +15,7 @@
   </a>
 </p>
 
-> The OnlyLinks components for react applications.
+> The OnlyLinks components for react applications. OnlyLinks is an affiliate marketing software for SaaS companies. [Check it out here.](https://onlylinks.io)
 
 ### 🏠 [Homepage](https://github.com/philalem/onlylinks-react#readme)
 
@@ -31,12 +31,6 @@ npm i onlylinks-react
 
 ```
 
-## Run tests
-
-```sh
-
-```
-
 ## Author
 
 👤 **Phillip LeMaster**
@@ -45,10 +39,6 @@ npm i onlylinks-react
 - Twitter: [@codebeef\_](https://twitter.com/codebeef_)
 - Github: [@philalem](https://github.com/philalem)
 - LinkedIn: [@phillip-lemaster](https://linkedin.com/in/phillip-lemaster)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/philalem/onlylinks-react/issues). You can also take a look at the [contributing guide]().
 
 ## Show your support
 

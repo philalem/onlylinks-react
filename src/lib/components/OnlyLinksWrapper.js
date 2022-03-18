@@ -1,4 +1,5 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
+
 const OnlyLinksWrapper = ({ id, children }) => {
   useEffect(() => {
     const params = new Proxy(new URLSearchParams(window.location.search), {

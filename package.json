@@ -1,6 +1,48 @@
 {
-  "scripts": {"build": "rm -rf dist && NODE_ENV=production babel src/lib --out-dir dist --copy-files";},
+  "name": "onlylinks-react",
+  "description": "The OnlyLinks components for react applications.",
+  "author": "Phillip LeMaster",
+  "keywords": [
+    "react",
+    "affiliate",
+    "referral"
+  ],
+  "version": "0.0.1",
+  "private": false,
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philalem/onlylinks-react.git"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "react-scripts test",
+    "build": "rm -rf dist && NODE_ENV=production babel src/lib --out-dir dist --copy-files",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
   "devDependencies": {
+    "react": "latest",
+    "react-dom": "latest",
+    "react-scripts": "latest",
+    "web-vitals": "latest",
     "@babel/cli": "^7.17.6",
     "@babel/core": "^7.17.7",
     "@babel/preset-env": "^7.16.11"

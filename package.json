@@ -2,6 +2,7 @@
   "name": "onlylinks-react",
   "description": "The OnlyLinks components for react applications.",
   "author": "Phillip LeMaster",
+  "license": "MIT",
   "keywords": [
     "react",
     "affiliate",
@@ -16,9 +17,13 @@
     "dist",
     "README.md"
   ],
+  "homepage": "https://github.com/philalem/onlylinks-react#readme",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/philalem/onlylinks-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/philalem/onlylinks-react/issues"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -39,13 +44,13 @@
     ]
   },
   "devDependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.7",
+    "@babel/preset-env": "^7.16.11",
     "react": "latest",
     "react-dom": "latest",
     "react-scripts": "latest",
-    "web-vitals": "latest",
-    "@babel/cli": "^7.17.6",
-    "@babel/core": "^7.17.7",
-    "@babel/preset-env": "^7.16.11"
+    "web-vitals": "latest"
   },
   "dependencies": {
     "@babel/polyfill": "^7.12.1"
